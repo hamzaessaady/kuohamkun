@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Hamza - 👋
 
-## I'm a Student, Developer, and Simple Young Man!!
+## I'm a software engineer and Simple Young Man!!
 
-- :books: I am pursuing a master's degree in __Information Systems Engineering__
-- :seedling: I’m currently interested in taking an __Internship abroad__
+- :books: I am a __Software Engineer__
+- :seedling: I’m currently interested in scaling up __my career__
 - :dancers: I’m always looking to __collaborate with others__ 
-- :dart: 2020 Goals: Find an __internship__ and improve my __German language__
-- :zap: Fun fact: I love __Rock&Roll__ music and I'm a big __Anime__ Fun
+- :dart: 2023 Goals: Try new __challenge__ and improve my __German language__
+- :zap: Fun fact: I love __Rock&Roll__ music and I'm a big __Anime__ Fan
 
 <br />
 
